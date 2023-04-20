@@ -1,0 +1,10 @@
+*.png
+*.jpg
+*.xml
+*.pyc
+*.iml
+*.npz
+*.gz
+*.npy
+*.pth
+*.log
