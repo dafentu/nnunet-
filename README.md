@@ -1,1 +1,3 @@
-# nnunet-
+先使用move.py把数据集从文件分离，保证数据和标签位于两个文件夹内。
+然后运行rename.py在nnunet的DATASET下创建项目文件夹，并获取训练、测试集的ID，按需修改
+最后使用dataset生成json文件，直接就能用命令用了
